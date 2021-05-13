@@ -60,7 +60,7 @@ My own solutions to HackerRank problems
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Day 0|Easy|[Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)|[hello-world.js](30-Days-of-Code/hello-world.js)|
-|Day 1|Easy|[Day 1: Data Types](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
+|Day 1|Easy|[Day 1: Data Types](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|[data-types.js](30-Days-of-Code/data-types.js)|
 |Day 2|Easy|[Day 2: Operators](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
 |Day 3|Easy|[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
 |Day 4|Easy|[Day 4: Class vs. Instance](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
