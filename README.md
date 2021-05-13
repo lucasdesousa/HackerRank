@@ -1,5 +1,7 @@
 # HackerRank
-Solutions to HackerRank problems
+My own solutions to HackerRank problems
+[My HackerRank Profile](https://www.hackerrank.com/lucasdesousa)
+
 
 * [Algorithms](#algorithms)
 * [10 Days of Javascript](#10-days-of-javascript)
