@@ -33,8 +33,8 @@ My own solutions to HackerRank problems
 |Day 3|Easy|[Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)|[arrays.js](10-Days-of-Javascript/arrays.js)|
 |Day 3|Easy|[Day 3: Try, Catch and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)|[try-catch-finally.js](10-Days-of-Javascript/try-catch-finally.js)|
 |Day 3|Easy|[Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|[throw.js](10-Days-of-Javascript/throw.js)|
-|Day 4|Easy|[Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|-|
-|Day 4|Easy|[Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|-|
+|Day 4|Easy|[Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|[create-a-rectangle-object.js](10-Days-of-Javascript/create-a-rectangle-object.js)|
+|Day 4|Easy|[Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|[count-objects.js](10-Days-of-Javascript/count-objects.js)|
 |Day 4|Easy|[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem)|-|
 |Day 5|Easy|[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|[inheritance.js](10-Days-of-Javascript/inheritance.js)|
 |Day 5|Easy|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|-|
@@ -53,15 +53,21 @@ My own solutions to HackerRank problems
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Day 0|Easy|[Day 0: Mean, Median and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|[mean-median-mode.js](10-Days-of-Statistics/mean-median-mode.js)|
-|Day 0|Easy|[Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)|-|
+|Day 0|Easy|[Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)|[weighted-mean.js](10-Days-of-Statistics/weighted-mean.js)|
+|Day 1|Easy|[Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)|-|
+|Day 1|Easy|[Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)|-|
+|Day 1|Easy|[Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)|-|
+|Day 2|Easy|[Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem)|-|
+|Day 2|Easy|[Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem)|-|
+|Day 2|Easy|[Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem)|-|
 
 
 ## 30 Days of Code
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Day 0|Easy|[Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)|[hello-world.js](30-Days-of-Code/hello-world.js)|
-|Day 1|Easy|[Day 1: Data Types](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|[data-types.js](30-Days-of-Code/data-types.js)|
-|Day 2|Easy|[Day 2: Operators](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
+|Day 1|Easy|[Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)|[data-types.js](30-Days-of-Code/data-types.js)|
+|Day 2|Easy|[Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)|[operators.js](30-Days-of-Code/operators.js)|
 |Day 3|Easy|[Day 3: Intro to Conditional Statements](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
 |Day 4|Easy|[Day 4: Class vs. Instance](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
 |Day 5|Easy|[Day 5: Loops](https://www.hackerrank.com/domains/tutorials/30-days-of-code)|-|
