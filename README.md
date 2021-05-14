@@ -35,12 +35,12 @@ My own solutions to HackerRank problems
 |Day 3|Easy|[Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem)|[throw.js](10-Days-of-Javascript/throw.js)|
 |Day 4|Easy|[Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem)|[create-a-rectangle-object.js](10-Days-of-Javascript/create-a-rectangle-object.js)|
 |Day 4|Easy|[Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem)|[count-objects.js](10-Days-of-Javascript/count-objects.js)|
-|Day 4|Easy|[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem)|-|
+|Day 4|Easy|[Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem)|[classes.js](10-Days-of-Javascript/classes.js)|
 |Day 5|Easy|[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|[inheritance.js](10-Days-of-Javascript/inheritance.js)|
-|Day 5|Easy|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|-|
-|Day 5|Easy|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|-|
+|Day 5|Easy|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|[template-literals.js](10-Days-of-Javascript/template-literals.js)|
+|Day 5|Easy|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|[arrow-functions.js](10-Days-of-Javascript/arrow-functions.js)|
 |Day 6|Easy|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|-|
-|Day 6|Easy|[Day 6: Javascript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|-|
+|Day 6|Easy|[Day 6: Javascript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|[dates.js](10-Days-of-Javascript/dates.js)|
 |Day 7|Easy|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|[regular-expressions-1.js](10-Days-of-Javascript/regular-expressions-1.js)|
 |Day 7|Easy|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|-|
 |Day 7|Easy|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|-|
