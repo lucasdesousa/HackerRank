@@ -39,13 +39,13 @@ My own solutions to HackerRank problems
 |Day 5|Easy|[Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem)|[inheritance.js](10-Days-of-Javascript/inheritance.js)|
 |Day 5|Easy|[Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem)|[template-literals.js](10-Days-of-Javascript/template-literals.js)|
 |Day 5|Easy|[Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem)|[arrow-functions.js](10-Days-of-Javascript/arrow-functions.js)|
-|Day 6|Easy|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|-|
+|Day 6|Easy|[Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem)|[bitwise-operators.js](10-Days-of-Javascript/bitwise-operators.js)|
 |Day 6|Easy|[Day 6: Javascript Dates](https://www.hackerrank.com/challenges/js10-date/problem)|[dates.js](10-Days-of-Javascript/dates.js)|
 |Day 7|Easy|[Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem)|[regular-expressions-1.js](10-Days-of-Javascript/regular-expressions-1.js)|
-|Day 7|Easy|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|-|
-|Day 7|Easy|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|-|
+|Day 7|Easy|[Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem)|[regular-expressions-2.js](10-Days-of-Javascript/regular-expressions-2.js)|
+|Day 7|Easy|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|[regular-expressions-3.js](10-Days-of-Javascript/regular-expressions-3.js)|
 |Day 8|Easy|[Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem)|[create-a-button.html](10-Days-of-Javascript/create-a-button.html)|
-|Day 8|Easy|[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem)|-|
+|Day 8|Easy|[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem)|[buttons-container.html](10-Days-of-Javascript/buttons-container.html)|
 |Day 9|Medium|[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)|-|
 
 
