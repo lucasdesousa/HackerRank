@@ -46,7 +46,7 @@ My own solutions to HackerRank problems
 |Day 7|Easy|[Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem)|[regular-expressions-3.js](10-Days-of-Javascript/regular-expressions-3.js)|
 |Day 8|Easy|[Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem)|[create-a-button.html](10-Days-of-Javascript/create-a-button.html)|
 |Day 8|Easy|[Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem)|[buttons-container.html](10-Days-of-Javascript/buttons-container.html)|
-|Day 9|Medium|[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)|-|
+|Day 9|Medium|[Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem)|[binary-calculator.html](10-Days-of-Javascript/binary-calculator.html)|
 
 
 ## 10 Days of Statistics

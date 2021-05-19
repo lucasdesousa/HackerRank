@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        width: 33%;
+      }
+
+      .result {
+        background-color: lightgray;
+        border: solid;
+        height: 48px;
+        font-size: 20px;
+      }
+
+      .binary-button {
+        background-color: lightgreen;
+        color: brown;
+      }
+
+      .finish-button {
+        background-color: darkgreen;
+        color: white;
+      }
+
+      .operation-button {
+        background-color: black;
+        color: red;
+      }
+
+      button {
+        width: 25%;
+        height: 36px;
+        font-size: 18px;
+        margin: 0px;
+        float: left;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="res" class="result"></div>
+    <div id="btns">
+      <button id="btn0" class="binary-button">0</button>
+      <button id="btn1" class="binary-button">1</button>
+      <button id="btnClr" class="finish-button">C</button>
+      <button id="btnEql" class="finish-button">=</button>
+      <button id="btnSum" class="operation-button">+</button>
+      <button id="btnSub" class="operation-button">-</button>
+      <button id="btnMul" class="operation-button">*</button>
+      <button id="btnDiv" class="operation-button">/</button>
+    </div>
+    <script type="text/javascript">
+      let operation = "";
+      let result = document.getElementById("res");
+      result.innerHTML = "";
+
+      document.getElementById("btn0").addEventListener("click", clickNumber);
+      document.getElementById("btn1").addEventListener("click", clickNumber);
+
+      document
+        .getElementById("btnSum")
+        .addEventListener("click", clickOperation);
+      document
+        .getElementById("btnSub")
+        .addEventListener("click", clickOperation);
+      document
+        .getElementById("btnMul")
+        .addEventListener("click", clickOperation);
+      document
+        .getElementById("btnDiv")
+        .addEventListener("click", clickOperation);
+
+      document.getElementById("btnClr").addEventListener("click", clickClear);
+      document.getElementById("btnEql").addEventListener("click", clickEqual);
+
+      function clickNumber(e) {
+        let source = e.target || e.srcElement;
+        result.innerHTML += source.innerHTML;
+      }
+
+      function clickOperation(e) {
+        let source = e.target || e.srcElement;
+        result.innerHTML += source.innerHTML;
+        operation = source.innerHTML;
+      }
+
+      function clickEqual(e) {
+        let str = result.innerHTML.split(operation);
+
+        let op1 = str[0];
+        let op2 = str[1];
+
+        result.innerHTML = Math.floor(
+          eval(parseInt(op1, 2) + operation + parseInt(op2, 2))
+        ).toString(2);
+
+        operation = "";
+      }
+
+      function clickClear(e) {
+        result.innerHTML = "";
+        operation = "";
+      }
+    </script>
+  </body>
+</html>
